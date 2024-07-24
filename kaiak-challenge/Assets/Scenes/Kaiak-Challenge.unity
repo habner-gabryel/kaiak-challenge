@@ -151,7 +151,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6919159c8ff4549beae33062426e4d3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  zRandom: 0
+  xMax: 15
+  yEnemy: 4
+  zEnemy: 8
   prefabs:
   - {fileID: 8081681260206727139, guid: 91d88d338f1f116e5bad05806cc02752, type: 3}
   - {fileID: 2368310894373586551, guid: 48295cd1ace2ecb67a2f2334971551c4, type: 3}
